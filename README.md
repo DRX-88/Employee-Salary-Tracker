@@ -1,7 +1,5 @@
 # Employee-Salary-Tracker
 
-# Professional-Portfolio
-
 # Coding Portfolio README
 
 Welcome to my Coding Portfolio! This repository showcases a collection of my projects, demonstrating my skills and expertise in various areas of software development. The portfolio is designed to be fully responsive, ensuring an optimal viewing experience on devices of all sizes, from mobile phones to large desktop monitors.
@@ -9,7 +7,6 @@ Welcome to my Coding Portfolio! This repository showcases a collection of my pro
 ## Table of Contents
 
 - [Introduction](#introduction)
-
 - [Technologies Used](#technologies-used)
 - [Live Deployment](#live-deployed-link)
 - [License](#license)

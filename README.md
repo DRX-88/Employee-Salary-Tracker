@@ -24,9 +24,9 @@ The application takes input using prompts to create a list of employees along wi
 - JavaScript
 
 ## Live Deployed Link
-https://drx-88.github.io/Professional-Portfolio/
+https://drx-88.github.io/Employee-Salary-Tracker/
 ## Repository Link
-(https://github.com/DRX-88/Employee-Salary-Tracker)
+https://github.com/DRX-88/Employee-Salary-Tracker
 
 ## License
 

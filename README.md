@@ -1,6 +1,6 @@
 # Employee-Salary-Tracker README
 
-Welcome to my Coding Portfolio! This repository showcases a collection of my projects, demonstrating my skills and expertise in various areas of software development. The portfolio is designed to be fully responsive, ensuring an optimal viewing experience on devices of all sizes, from mobile phones to large desktop monitors.
+Welcome to the Employee Salary Tracker Application! This project is designed to streamline the process of viewing and managing employee payroll data. With a focus on usability and responsiveness, this application ensures that payroll managers can efficiently handle payroll tasks from any device, whether it's a mobile phone, tablet, or desktop computer.
 
 ## Table of Contents
 
